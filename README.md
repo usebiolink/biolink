@@ -2,7 +2,7 @@
 
 Create a simple bio-link page from the markdown file with Next.js and TailwindCSS.
 
-![elon-musk-biolink](https://user-images.githubusercontent.com/15708067/235450498-9b6cd3ce-fd7c-4ecc-9878-eac709802c4e.jpg)
+![biolink-starter](https://user-images.githubusercontent.com/111270090/235451680-020df14d-6e3e-4570-adec-e00609287a65.png)
 
 ## Customize your Biolink
 
