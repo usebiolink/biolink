@@ -1,4 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Biolink Starter
+
+Create a simple bio-link page from the markdown file with Next.js and TailwindCSS.
+
+![biolink demo](/biolink.png)
+
+## Customize your Biolink
+
+Edit
+
+```
+/src/biolink.md
+```
+
+| Option Key   | Value                                                    |
+| ------------ | -------------------------------------------------------- |
+| Name         | Write your name here                                     |
+| Bio          | Write your short bio description                         |
+| ProfilePhoto | Place your profile photo to `public/profile-photo.png`         |
+| Links        | Give name and url to share link                          |
+| SocialLinks  | Give name (name options are below) and url to share icon |
+| Customize    | Set font family and theme                                |
+
+**Icon Options**
+
+`facebook` - `instagram` - `youtube` - `twitter` - `linkedin` - `github` - `whatsapp` - `medium` - `discord` - `messenger` - `reddit` - `pinterest` - `spotify` - `slack` - `website` - `phone` - `mail` - `location`
+
+**Font Family**
+Use [Google Fonts](https://fonts.google.com/) to choose font family. Example value: `Space Grotesk`
+
+**Theme**
+Two diffent theme option `light` and `dark`
+
+---
 
 ## Getting Started
 
