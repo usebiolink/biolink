@@ -26,9 +26,11 @@ Edit
 `facebook` - `instagram` - `youtube` - `twitter` - `linkedin` - `github` - `whatsapp` - `medium` - `discord` - `messenger` - `reddit` - `pinterest` - `spotify` - `slack` - `website` - `phone` - `mail` - `location`
 
 **Font Family**
+
 Use [Google Fonts](https://fonts.google.com/) to choose font family. Example value: `Space Grotesk`
 
 **Theme**
+
 Two diffent theme option `light` and `dark`
 
 ---
